@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "تهران",
+    "province_id": "1"
+  },
+  {
+    "id": 2,
+    "name": "مشهد",
+    "province_id": "9"
+  },
+  {
+    "id": 3,
+    "name": "اصفهان",
+    "province_id": "4"
+  },
+  {
+    "id": 4,
+    "name": "کرج",
+    "province_id": "16"
+  },
+  {
+    "id": 5,
+    "name": "شیراز",
+    "province_id": "5"
+  },
+  {
+    "id": 6,
+    "name": "قم",
+    "province_id": "26"
+  },
+  {
+    "id": 7,
+    "name": "ارومیه",
+    "province_id": "3"
+  },
+  {
+    "id": 8,
+    "name": "رشت",
+    "province_id": "11"
+  },
+  {
+    "id": 9,
+    "name": "زاهدان",
+    "province_id": "22"
+  },
+  {
+    "id": 10,
+    "name": "کرمان",
+    "province_id": "15"
+  }
+]
